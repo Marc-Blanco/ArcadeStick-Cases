@@ -14,6 +14,7 @@ Based on the existing project notes, the case also uses a **special screw/stop s
 ## Repository contents
 
 - `README.md` – project overview and preview
+- `CAD Files` – the contents of the project aka CAD files
 - `JOURNAL.md` – design/devlog notes and references
 
 ## Notes
