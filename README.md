@@ -14,7 +14,6 @@ Based on the existing project notes, the case also uses a **special screw/stop s
 ## Repository contents
 
 - `README.md` – project overview and preview
-- `BOM.csv` – parts list template
 - `JOURNAL.md` – design/devlog notes and references
 
 ## Notes
